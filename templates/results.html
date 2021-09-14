@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="{{ url_for('static', filename='home.css') }}" rel="stylesheet" type="text/css"/>
+    <link href="{{ url_for('static', filename='style.css') }}" rel="stylesheet" type="text/css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  </head>
+  <body>
+    <header>
+      <div class="left">
+        <h1 class="logo">Project Flux<span>.</span></h1>
+        <ul>
+          <li class="active"><a href="/">About Us</a></li>
+          <li><a href="/team">Our Team</a></li>
+          <li>Contact Us</li>
+        </ul>
+      </div> 
+      <!-- <div class="btns">
+        <button class="btn btn-primary"><a href="/search">Get Started</a></button>
+      </div> -->
+    </header>
+  </body>
+  {% for item in data %}
+        <!-- <tr>
+          <td>contact_trace: {{item[0]}} inter travel: {{item[1]}} movement_res: {{item[2]}} public_trans: {{ item[3] }} test_pol: {{ item[4] }} vaccine_pol: {{ item[5] }}</td>
+        </tr> -->
+
+        <!--Contact tracing conditions-->
+        {% if item[0] == 0.0 %}
+        <div class="summary">
+        <section id="hero">
+        <div class="left">
+          <h1 class="title">Contact Tracing</h1>
+          <p class="desc">No contact tracing</p>
+        </div>
+        </section>
+        </div>
+        {% endif %}
+        {% if item[0] == 1.0 %}
+        <div class="summary">
+        <section id="hero">
+        <div class="left">
+          <h1 class="title">Contact Tracing</h1>
+          <p class="desc">Limited contact tracing; not done for all cases</p>
+        </div>
+        </section>
+        </div>
+        {% endif %}
+        {% if item[0] == 2.0 %}
+        <div class="summary">
+        <section id="hero">
+        <div class="left">
+          <h1 class="title">Contact Tracing</h1>
+          <p class="desc">Comprehensive contact tracing; done for all identified cases. Declaring increased resources to contact tracing capacity and the intention to do contact tracing for all 
+            identified cases, PLUS evidence that this is actually happening on the ground and there is capacity to do so.</p>
+        </div>
+        </section>
+        </div>
+        {% endif %}
+        
+        <!--Inter-travel conditions-->
+        {% if item[1] == 0.0 %}
+        <div class="summary">
+        <section id="hero">
+        <div class="left">
+          <h1 class="title">International Travel Controls</h1>
+          <p class="desc">No restrictions</p>
+        </div>
+        </section>
+        </div>
+        {% endif %}
+        {% if item[1] == 1.0 %}
+        <div class="summary">
+        <section id="hero">
+        <div class="left">
+          <h1 class="title">International Travel Controls</h1>
+          <p class="desc">Screening arrivals. PCR testing required. Passengers may need to undergo a two week quarantine and must be tested negative before entering.</p>
+        </div>
+        </section>
+        </div>
+        {% endif %}
+        {% if item[1] == 2.0 %}
+        <div class="summary">
+        <section id="hero">
+        <div class="left">
+          <h1 class="title">International Travel Controls</h1>
+          <p class="desc">Quarantine arrivals from some or all regions and PCR testing required.</p>
+        </div>
+        </section>
+        </div>
+        {% endif %}
+        {% if item[1] == 3.0 %}
+        <div class="summary">
+        <section id="hero">
+        <div class="left">
+          <h1 class="title">International Travel Controls</h1>
+          <p class="desc">Ban arrivals from some regions</p>
+        </div>
+        </section>
+        </div>
+        {% endif %}
+        {% if item[1] == 4.0 %}
+        <div class="summary">
+        <section id="hero">
+        <div class="left">
+          <h1 class="title">International Travel Controls</h1>
+          <p class="desc">Ban on all regions or total border closure</p>
+        </div>
+        </section>
+        </div>
+        {% endif %}
+
+        <!--movement_res conditions-->
+        {% if item[2] == 0.0 %}
+        <div class="summary">
+        <section id="hero">
+        <div class="left">
+          <h1 class="title">Restrictions on internal movement</h1>
+          <p class="desc">No measures</p>
+        </div>
+        </section>
+        </div>
+        {% endif %}
+        {% if item[2] == 1.0 %}
+        <div class="summary">
+        <section id="hero">
+        <div class="left">
+          <h1 class="title">Restrictions on internal movement</h1>
+          <p class="desc">Recommend not to travel between regions/cities. Voluntary quarantines, non-intrusive checks at the state border (ex: asking where you will be quarantining but not 
+            following up extensively), asking residents of one specific city to not cross the border with a neighboring city</p>
+        </div>
+        </section>
+        </div>
+        {% endif %}
+        {% if item[2] == 2.0 %}
+        <div class="summary">
+        <section id="hero">
+        <div class="left">
+          <h1 class="title">Restrictions on internal movement</h1>
+          <p class="desc">Internal movement restrictions in place. Closing interstate highways/waterways, prohibiting or banning travel from certain regions, requirement of negative test result, intensive checks on quarantine, requiring quarantine in a hotel or other standardized state-run facility If there are restrictions for the circulation of private cars based on certain criteria (e.g. ending of the license number) 
+            to reduce the number of vehicles on the streets, we also report it as restriction of internal movement.</p>
+        </div>
+        </section>
+        </div>
+        {% endif %}
+
+        <!--public_trans conditions-->
+        {% if item[3] == 0.0 %}
+        <div class="summary">
+        <section id="hero">
+        <div class="left">
+          <h1 class="title">Closing of public transport</h1>
+          <p class="desc">No measures</p>
+        </div>
+        </section>
+        </div>
+        {% endif %}
+        {% if item[3] == 1.0 %}
+        <div class="summary">
+        <section id="hero">
+        <div class="left">
+          <h1 class="title">Closing of public transport</h1>
+          <p class="desc">Recommend closing (or significantly reduce volume/route/means of transport available). Encouraging public transport usage only by essential workers, 
+            and discouraging use by members of public, closing major routes, closing all but specific service routes (ex: services for persons with disabilities and the elderly). 
+            </p>
+        </div>
+        </section>
+        </div>
+        {% endif %}
+        {% if item[3] == 2.0 %}
+        <div class="summary">
+        <section id="hero">
+        <div class="left">
+          <h1 class="title">Closing of public transport</h1>
+          <p class="desc">Require closing (or prohibit most citizens from using it). The general public are prohibited from public transport (exceptions allowed for essential workers or 
+            some other specific category), total shutdowns of services to align with other movement restrictions.</p>
+        </div>
+        </section>
+        </div>
+        {% endif %}
+
+        <!--test_pol conditions-->
+        {% if item[4] == 0.0 %}
+        <div class="summary">
+        <section id="hero">
+        <div class="left">
+          <h1 class="title">Testing Policy</h1>
+          <p class="desc">No testing policy</p>
+        </div>
+        </section>
+        </div>
+        {% endif %}
+        {% if item[4] == 1.0 %}
+        <div class="summary">
+        <section id="hero">
+        <div class="left">
+          <h1 class="title">Testing Policy</h1>          
+          <p class="desc">Only those who both (a) have symptoms AND (b) meet specific criteria (eg key workers, 
+            admitted to hospital, came into contact with a known case, returned from overseas)</p>
+        </div>
+        </section>
+        </div>
+        {% endif %}
+        {% if item[4] == 2.0 %}
+        <div class="summary">
+        <section id="hero">
+        <div class="left">
+          <h1 class="title">Testing Policy</h1>
+          <p class="desc">Testing of anyone showing Covid-19 symptoms</p>
+        </div>
+        </section>
+        </div>
+        {% endif %}
+        {% if item[4] == 3.0 %}
+        <div class="summary">
+        <section id="hero">
+        <div class="left">
+          <h1 class="title">Testing Policy</h1>
+          <p class="desc">Open public testing (eg "drive through" testing available to asymptomatic people)</p>
+        </div>
+        </section>
+        </div>
+        {% endif %}
+
+        <!--vaccine_pol conditions-->
+        {% if item[5] == 0.0 %}
+        <div class="summary">
+        <section id="hero">
+        <div class="left">
+          <h1 class="title">Vaccine Policy</h1>
+          <p class="desc">No vaccine availability</p>
+        </div>
+        </section>
+        </div>
+        {% endif %}
+        {% if item[5] == 1.0 %}
+        <div class="summary">
+        <section id="hero">
+        <div class="left">
+          <h1 class="title">Vaccine Policy</h1>
+          <p class="desc">Availability for ONE of following: key workers/ clinically vulnerable groups (non elderly) / elderly groups</p>
+        </div>
+        </section>
+        </div>
+        {% endif %}
+        {% if item[5] == 2.0 %}
+        <div class="summary">
+        <section id="hero">
+        <div class="left">
+          <h1 class="title">Vaccine Policy</h1>
+          <p class="desc">Availability for TWO of following: key workers/ clinically vulnerable groups (non elderly) / elderly groups</p>
+        </div>
+        </section>
+        </div>
+        {% endif %}
+        {% if item[5] == 3.0 %}
+        <div class="summary">
+        <section id="hero">
+        <div class="left">
+          <h1 class="title">Vaccine Policy</h1>
+          <p class="desc">Availability for ALL of following: key workers/ clinically vulnerable groups (non elderly) / elderly groups</p>
+        </div>
+        </section>
+        </div>
+        {% endif %}
+        {% if item[5] == 4.0 %}
+        <div class="summary">
+        <section id="hero">
+        <div class="left">
+          <h1 class="title">Vaccine Policy</h1>
+          <p class="desc">Availability for ALL three PLUS partial additional availability (e.g. broad groups/ages)</p>
+        </div>
+        </section>
+        </div>
+        {% endif %}
+        {% if item[5] == 5.0 %}
+        <div class="summary">
+        <section id="hero">
+        <div class="left">
+          <h1 class="title">Vaccine Policy</h1>
+          <p class="desc">Universal availability</p>
+        </div>
+        </section>
+        </div>
+        {% endif %}
+
+      {% endfor %}
+
+        <div class="summary">
+          <section id="hero">
+          <div class="left">
+            <h1 class="title">Country not found!</h1>
+            <p class="desc">Please enter the name of the country correctly. (Note. If searching for USA, type in United States)</p>
+          </div>
+          </section>
+          </div>
+
+</html>

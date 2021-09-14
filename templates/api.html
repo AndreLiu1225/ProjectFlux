@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="{{ url_for('static', filename='home.css') }}" rel="stylesheet" type="text/css"/>
+    <link href="{{ url_for('static', filename='style.css') }}" rel="stylesheet" type="text/css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  </head>
+  <body>
+    <header>
+      <div class="left">
+        <h1 class="logo">Project Flux<span>.</span></h1>
+        <ul>
+          <li class="active"><a href="/">About Us</a></li>
+          <li><a href="/team">Our Team</a></li>
+          <li><a href="/api">API</a></li>
+          <li>Contact Us</li>
+        </ul>
+      </div> 
+    
+    </header>
+    <section id="hero">
+        <div class="left">
+          <h5>Fascinated with what you have seen</h5>
+          <h1 class="title">Find out more about our API</h1>
+          <p class="desc">Real time info aggregation by AI software into database, consisting of many policies such as vaccine, airline, testing etc.</p>
+          <button class="btn btn-primary"><a href="/search">Get Started</a></button>
+        </div>
+        <img src="https://cdn3d.iconscout.com/3d/premium/thumb/startup-3025714-2526912.png" alt="">
+        </section>
+      <footer>
+        <div class="card">
+          <div class="icon">
+            <i class="fas fa-code"></i>
+          </div>
+          <div class="content">
+            <h3>AI Data Aggregator</h3>
+            <p>Data aggregator collects information scattered around the web and processes them</p>
+          </div>
+        </div>
+        <div class="card">
+          <div class="icon">
+            <i class="fas fa-code"></i>
+          </div>
+          <div class="content">
+            <h3>Personalized travel recommendation engine</h3>
+            <p>Target users input their queries into Project Flux Website/App 
+                Receive personalized travel instructions and information. The algorithm assesses and recommends safest and cheapest route</p>
+          </div>
+        </div>
+      </footer>
+  </body>
+</html>

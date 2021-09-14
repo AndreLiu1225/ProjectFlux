@@ -1,0 +1,1862 @@
+{
+    "Aruba": {
+        "": "0",
+        "country_name": "Aruba",
+        "contact_trace": "0.0",
+        "inter_travel": "1.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "0.0",
+        "vaccine_pol": "5.0"
+    },
+    "Afghanistan": {
+        "": "1",
+        "country_name": "Afghanistan",
+        "contact_trace": "0.0",
+        "inter_travel": "4.0",
+        "movement_res": "1.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "0.0"
+    },
+    "Angola": {
+        "": "2",
+        "country_name": "Angola",
+        "contact_trace": "0.0",
+        "inter_travel": "3.0",
+        "movement_res": "2.0",
+        "public_trans": "1.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "3.0"
+    },
+    "Albania": {
+        "": "3",
+        "country_name": "Albania",
+        "contact_trace": "0.0",
+        "inter_travel": "0.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "4.0"
+    },
+    "Andorra": {
+        "": "4",
+        "country_name": "Andorra",
+        "contact_trace": "2.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "United Arab Emirates": {
+        "": "5",
+        "country_name": "United Arab Emirates",
+        "contact_trace": "2.0",
+        "inter_travel": "2.0",
+        "movement_res": "2.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Argentina": {
+        "": "6",
+        "country_name": "Argentina",
+        "contact_trace": "2.0",
+        "inter_travel": "4.0",
+        "movement_res": "2.0",
+        "public_trans": "2.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "4.0"
+    },
+    "Australia": {
+        "": "7",
+        "country_name": "Australia",
+        "contact_trace": "2.0",
+        "inter_travel": "4.0",
+        "movement_res": "2.0",
+        "public_trans": "1.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "4.0"
+    },
+    "Austria": {
+        "": "8",
+        "country_name": "Austria",
+        "contact_trace": "2.0",
+        "inter_travel": "3.0",
+        "movement_res": "0.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Azerbaijan": {
+        "": "9",
+        "country_name": "Azerbaijan",
+        "contact_trace": "2.0",
+        "inter_travel": "4.0",
+        "movement_res": "0.0",
+        "public_trans": "1.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "5.0"
+    },
+    "Burundi": {
+        "": "10",
+        "country_name": "Burundi",
+        "contact_trace": "0.0",
+        "inter_travel": "1.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "1.0",
+        "vaccine_pol": "0.0"
+    },
+    "Belgium": {
+        "": "11",
+        "country_name": "Belgium",
+        "contact_trace": "2.0",
+        "inter_travel": "3.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Benin": {
+        "": "12",
+        "country_name": "Benin",
+        "contact_trace": "2.0",
+        "inter_travel": "1.0",
+        "movement_res": "1.0",
+        "public_trans": "1.0",
+        "test_pol": "1.0",
+        "vaccine_pol": "4.0"
+    },
+    "Burkina Faso": {
+        "": "13",
+        "country_name": "Burkina Faso",
+        "contact_trace": "1.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "5.0"
+    },
+    "Bangladesh": {
+        "": "14",
+        "country_name": "Bangladesh",
+        "contact_trace": "2.0",
+        "inter_travel": "3.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "4.0"
+    },
+    "Bulgaria": {
+        "": "15",
+        "country_name": "Bulgaria",
+        "contact_trace": "1.0",
+        "inter_travel": "1.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Bahrain": {
+        "": "16",
+        "country_name": "Bahrain",
+        "contact_trace": "2.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "4.0"
+    },
+    "Bahamas": {
+        "": "17",
+        "country_name": "Bahamas",
+        "contact_trace": "2.0",
+        "inter_travel": "1.0",
+        "movement_res": "2.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Bosnia and Herzegovina": {
+        "": "18",
+        "country_name": "Bosnia and Herzegovina",
+        "contact_trace": "0.0",
+        "inter_travel": "1.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "3.0"
+    },
+    "Belarus": {
+        "": "19",
+        "country_name": "Belarus",
+        "contact_trace": "2.0",
+        "inter_travel": "3.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "2.0"
+    },
+    "Belize": {
+        "": "20",
+        "country_name": "Belize",
+        "contact_trace": "2.0",
+        "inter_travel": "1.0",
+        "movement_res": "2.0",
+        "public_trans": "1.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "3.0"
+    },
+    "Bermuda": {
+        "": "21",
+        "country_name": "Bermuda",
+        "contact_trace": "2.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Bolivia": {
+        "": "22",
+        "country_name": "Bolivia",
+        "contact_trace": "1.0",
+        "inter_travel": "4.0",
+        "movement_res": "1.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "4.0"
+    },
+    "Brazil": {
+        "": "23",
+        "country_name": "Brazil",
+        "contact_trace": "0.0",
+        "inter_travel": "1.0",
+        "movement_res": "2.0",
+        "public_trans": "1.0",
+        "test_pol": "1.0",
+        "vaccine_pol": "4.0"
+    },
+    "Barbados": {
+        "": "24",
+        "country_name": "Barbados",
+        "contact_trace": "2.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Brunei": {
+        "": "25",
+        "country_name": "Brunei",
+        "contact_trace": "2.0",
+        "inter_travel": "4.0",
+        "movement_res": "0.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Bhutan": {
+        "": "26",
+        "country_name": "Bhutan",
+        "contact_trace": "2.0",
+        "inter_travel": "3.0",
+        "movement_res": "1.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Botswana": {
+        "": "27",
+        "country_name": "Botswana",
+        "contact_trace": "2.0",
+        "inter_travel": "1.0",
+        "movement_res": "2.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "3.0"
+    },
+    "Central African Republic": {
+        "": "28",
+        "country_name": "Central African Republic",
+        "contact_trace": "0.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "2.0"
+    },
+    "Canada": {
+        "": "29",
+        "country_name": "Canada",
+        "contact_trace": "1.0",
+        "inter_travel": "3.0",
+        "movement_res": "2.0",
+        "public_trans": "1.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "5.0"
+    },
+    "Switzerland": {
+        "": "30",
+        "country_name": "Switzerland",
+        "contact_trace": "2.0",
+        "inter_travel": "3.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Chile": {
+        "": "31",
+        "country_name": "Chile",
+        "contact_trace": "2.0",
+        "inter_travel": "2.0",
+        "movement_res": "2.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "4.0"
+    },
+    "China": {
+        "": "32",
+        "country_name": "China",
+        "contact_trace": "2.0",
+        "inter_travel": "3.0",
+        "movement_res": "2.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Cote d'Ivoire": {
+        "": "33",
+        "country_name": "Cote d'Ivoire",
+        "contact_trace": "1.0",
+        "inter_travel": "4.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Cameroon": {
+        "": "34",
+        "country_name": "Cameroon",
+        "contact_trace": "0.0",
+        "inter_travel": "1.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Democratic Republic of Congo": {
+        "": "35",
+        "country_name": "Democratic Republic of Congo",
+        "contact_trace": "0.0",
+        "inter_travel": "1.0",
+        "movement_res": "2.0",
+        "public_trans": "0.0",
+        "test_pol": "1.0",
+        "vaccine_pol": "1.0"
+    },
+    "Congo": {
+        "": "36",
+        "country_name": "Congo",
+        "contact_trace": "0.0",
+        "inter_travel": "1.0",
+        "movement_res": "1.0",
+        "public_trans": "1.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "5.0"
+    },
+    "Colombia": {
+        "": "37",
+        "country_name": "Colombia",
+        "contact_trace": "2.0",
+        "inter_travel": "1.0",
+        "movement_res": "1.0",
+        "public_trans": "2.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "5.0"
+    },
+    "Comoros": {
+        "": "38",
+        "country_name": "Comoros",
+        "contact_trace": "Comoros",
+        "inter_travel": "Comoros",
+        "movement_res": "Comoros",
+        "public_trans": "Comoros",
+        "test_pol": "Comoros",
+        "vaccine_pol": "0.0"
+    },
+    "Cape Verde": {
+        "": "39",
+        "country_name": "Cape Verde",
+        "contact_trace": "0.0",
+        "inter_travel": "1.0",
+        "movement_res": "2.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "3.0"
+    },
+    "Costa Rica": {
+        "": "40",
+        "country_name": "Costa Rica",
+        "contact_trace": "1.0",
+        "inter_travel": "1.0",
+        "movement_res": "1.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "4.0"
+    },
+    "Cuba": {
+        "": "41",
+        "country_name": "Cuba",
+        "contact_trace": "2.0",
+        "inter_travel": "2.0",
+        "movement_res": "2.0",
+        "public_trans": "2.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "4.0"
+    },
+    "Cyprus": {
+        "": "42",
+        "country_name": "Cyprus",
+        "contact_trace": "2.0",
+        "inter_travel": "1.0",
+        "movement_res": "0.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Czech Republic": {
+        "": "43",
+        "country_name": "Czech Republic",
+        "contact_trace": "2.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Germany": {
+        "": "44",
+        "country_name": "Germany",
+        "contact_trace": "2.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Djibouti": {
+        "": "45",
+        "country_name": "Djibouti",
+        "contact_trace": "0.0",
+        "inter_travel": "1.0",
+        "movement_res": "0.0",
+        "public_trans": "2.0",
+        "test_pol": "1.0",
+        "vaccine_pol": "3.0"
+    },
+    "Dominica": {
+        "": "46",
+        "country_name": "Dominica",
+        "contact_trace": "2.0",
+        "inter_travel": "2.0",
+        "movement_res": "1.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Denmark": {
+        "": "47",
+        "country_name": "Denmark",
+        "contact_trace": "2.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Dominican Republic": {
+        "": "48",
+        "country_name": "Dominican Republic",
+        "contact_trace": "1.0",
+        "inter_travel": "1.0",
+        "movement_res": "1.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Algeria": {
+        "": "49",
+        "country_name": "Algeria",
+        "contact_trace": "2.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "1.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "3.0"
+    },
+    "Ecuador": {
+        "": "50",
+        "country_name": "Ecuador",
+        "contact_trace": "2.0",
+        "inter_travel": "2.0",
+        "movement_res": "2.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "3.0"
+    },
+    "Egypt": {
+        "": "51",
+        "country_name": "Egypt",
+        "contact_trace": "0.0",
+        "inter_travel": "1.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "3.0"
+    },
+    "Eritrea": {
+        "": "52",
+        "country_name": "Eritrea",
+        "contact_trace": "1.0",
+        "inter_travel": "4.0",
+        "movement_res": "0.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "0.0"
+    },
+    "Spain": {
+        "": "53",
+        "country_name": "Spain",
+        "contact_trace": "1.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "5.0"
+    },
+    "Estonia": {
+        "": "54",
+        "country_name": "Estonia",
+        "contact_trace": "1.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "5.0"
+    },
+    "Ethiopia": {
+        "": "55",
+        "country_name": "Ethiopia",
+        "contact_trace": "1.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "4.0"
+    },
+    "Finland": {
+        "": "56",
+        "country_name": "Finland",
+        "contact_trace": "2.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "1.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "5.0"
+    },
+    "Fiji": {
+        "": "57",
+        "country_name": "Fiji",
+        "contact_trace": "2.0",
+        "inter_travel": "4.0",
+        "movement_res": "2.0",
+        "public_trans": "1.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "5.0"
+    },
+    "France": {
+        "": "58",
+        "country_name": "France",
+        "contact_trace": "1.0",
+        "inter_travel": "3.0",
+        "movement_res": "2.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Faeroe Islands": {
+        "": "59",
+        "country_name": "Faeroe Islands",
+        "contact_trace": "2.0",
+        "inter_travel": "1.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "2.0"
+    },
+    "Gabon": {
+        "": "60",
+        "country_name": "Gabon",
+        "contact_trace": "0.0",
+        "inter_travel": "1.0",
+        "movement_res": "2.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "2.0"
+    },
+    "United Kingdom": {
+        "": "61",
+        "country_name": "United Kingdom",
+        "contact_trace": "1.0",
+        "inter_travel": "3.0",
+        "movement_res": "0.0",
+        "public_trans": "1.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "5.0"
+    },
+    "Georgia": {
+        "": "62",
+        "country_name": "Georgia",
+        "contact_trace": "2.0",
+        "inter_travel": "2.0",
+        "movement_res": "2.0",
+        "public_trans": "0.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "2.0"
+    },
+    "Ghana": {
+        "": "63",
+        "country_name": "Ghana",
+        "contact_trace": "2.0",
+        "inter_travel": "1.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "3.0"
+    },
+    "Guinea": {
+        "": "64",
+        "country_name": "Guinea",
+        "contact_trace": "1.0",
+        "inter_travel": "1.0",
+        "movement_res": "2.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "4.0"
+    },
+    "Gambia": {
+        "": "65",
+        "country_name": "Gambia",
+        "contact_trace": "2.0",
+        "inter_travel": "1.0",
+        "movement_res": "1.0",
+        "public_trans": "1.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "5.0"
+    },
+    "Greece": {
+        "": "66",
+        "country_name": "Greece",
+        "contact_trace": "2.0",
+        "inter_travel": "3.0",
+        "movement_res": "2.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Greenland": {
+        "": "67",
+        "country_name": "Greenland",
+        "contact_trace": "2.0",
+        "inter_travel": "4.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "3.0"
+    },
+    "Guatemala": {
+        "": "68",
+        "country_name": "Guatemala",
+        "contact_trace": "1.0",
+        "inter_travel": "3.0",
+        "movement_res": "1.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "4.0"
+    },
+    "Guam": {
+        "": "69",
+        "country_name": "Guam",
+        "contact_trace": "2.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Guyana": {
+        "": "70",
+        "country_name": "Guyana",
+        "contact_trace": "2.0",
+        "inter_travel": "3.0",
+        "movement_res": "0.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "4.0"
+    },
+    "Hong Kong": {
+        "": "71",
+        "country_name": "Hong Kong",
+        "contact_trace": "2.0",
+        "inter_travel": "2.0",
+        "movement_res": "1.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Honduras": {
+        "": "72",
+        "country_name": "Honduras",
+        "contact_trace": "1.0",
+        "inter_travel": "1.0",
+        "movement_res": "2.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "4.0"
+    },
+    "Croatia": {
+        "": "73",
+        "country_name": "Croatia",
+        "contact_trace": "1.0",
+        "inter_travel": "1.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "4.0"
+    },
+    "Haiti": {
+        "": "74",
+        "country_name": "Haiti",
+        "contact_trace": "2.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "0.0"
+    },
+    "Hungary": {
+        "": "75",
+        "country_name": "Hungary",
+        "contact_trace": "1.0",
+        "inter_travel": "1.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Indonesia": {
+        "": "76",
+        "country_name": "Indonesia",
+        "contact_trace": "2.0",
+        "inter_travel": "3.0",
+        "movement_res": "2.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "3.0"
+    },
+    "India": {
+        "": "77",
+        "country_name": "India",
+        "contact_trace": "2.0",
+        "inter_travel": "3.0",
+        "movement_res": "2.0",
+        "public_trans": "2.0",
+        "test_pol": "1.0",
+        "vaccine_pol": "4.0"
+    },
+    "Ireland": {
+        "": "78",
+        "country_name": "Ireland",
+        "contact_trace": "2.0",
+        "inter_travel": "3.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "4.0"
+    },
+    "Iran": {
+        "": "79",
+        "country_name": "Iran",
+        "contact_trace": "1.0",
+        "inter_travel": "3.0",
+        "movement_res": "2.0",
+        "public_trans": "0.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "3.0"
+    },
+    "Iraq": {
+        "": "80",
+        "country_name": "Iraq",
+        "contact_trace": "0.0",
+        "inter_travel": "3.0",
+        "movement_res": "2.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Iceland": {
+        "": "81",
+        "country_name": "Iceland",
+        "contact_trace": "2.0",
+        "inter_travel": "3.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Israel": {
+        "": "82",
+        "country_name": "Israel",
+        "contact_trace": "2.0",
+        "inter_travel": "4.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "5.0"
+    },
+    "Italy": {
+        "": "83",
+        "country_name": "Italy",
+        "contact_trace": "2.0",
+        "inter_travel": "3.0",
+        "movement_res": "2.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Jamaica": {
+        "": "84",
+        "country_name": "Jamaica",
+        "contact_trace": "2.0",
+        "inter_travel": "2.0",
+        "movement_res": "2.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "3.0"
+    },
+    "Jordan": {
+        "": "85",
+        "country_name": "Jordan",
+        "contact_trace": "1.0",
+        "inter_travel": "3.0",
+        "movement_res": "1.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "4.0"
+    },
+    "Japan": {
+        "": "86",
+        "country_name": "Japan",
+        "contact_trace": "1.0",
+        "inter_travel": "4.0",
+        "movement_res": "1.0",
+        "public_trans": "0.0",
+        "test_pol": "1.0",
+        "vaccine_pol": "4.0"
+    },
+    "Kazakhstan": {
+        "": "87",
+        "country_name": "Kazakhstan",
+        "contact_trace": "0.0",
+        "inter_travel": "3.0",
+        "movement_res": "1.0",
+        "public_trans": "0.0",
+        "test_pol": "1.0",
+        "vaccine_pol": "5.0"
+    },
+    "Kenya": {
+        "": "88",
+        "country_name": "Kenya",
+        "contact_trace": "0.0",
+        "inter_travel": "0.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "2.0"
+    },
+    "Kyrgyz Republic": {
+        "": "89",
+        "country_name": "Kyrgyz Republic",
+        "contact_trace": "1.0",
+        "inter_travel": "1.0",
+        "movement_res": "1.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Cambodia": {
+        "": "90",
+        "country_name": "Cambodia",
+        "contact_trace": "2.0",
+        "inter_travel": "2.0",
+        "movement_res": "2.0",
+        "public_trans": "0.0",
+        "test_pol": "1.0",
+        "vaccine_pol": "4.0"
+    },
+    "Kiribati": {
+        "": "91",
+        "country_name": "Kiribati",
+        "contact_trace": "0.0",
+        "inter_travel": "4.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "1.0",
+        "vaccine_pol": "5.0"
+    },
+    "South Korea": {
+        "": "92",
+        "country_name": "South Korea",
+        "contact_trace": "2.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Kuwait": {
+        "": "93",
+        "country_name": "Kuwait",
+        "contact_trace": "1.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Laos": {
+        "": "94",
+        "country_name": "Laos",
+        "contact_trace": "1.0",
+        "inter_travel": "1.0",
+        "movement_res": "1.0",
+        "public_trans": "1.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "4.0"
+    },
+    "Lebanon": {
+        "": "95",
+        "country_name": "Lebanon",
+        "contact_trace": "1.0",
+        "inter_travel": "2.0",
+        "movement_res": "2.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "4.0"
+    },
+    "Liberia": {
+        "": "96",
+        "country_name": "Liberia",
+        "contact_trace": "2.0",
+        "inter_travel": "1.0",
+        "movement_res": "0.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "4.0"
+    },
+    "Libya": {
+        "": "97",
+        "country_name": "Libya",
+        "contact_trace": "0.0",
+        "inter_travel": "2.0",
+        "movement_res": "2.0",
+        "public_trans": "0.0",
+        "test_pol": "1.0",
+        "vaccine_pol": "3.0"
+    },
+    "Liechtenstein": {
+        "": "98",
+        "country_name": "Liechtenstein",
+        "contact_trace": "2.0",
+        "inter_travel": "2.0",
+        "movement_res": "1.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "3.0"
+    },
+    "Sri Lanka": {
+        "": "99",
+        "country_name": "Sri Lanka",
+        "contact_trace": "2.0",
+        "inter_travel": "3.0",
+        "movement_res": "2.0",
+        "public_trans": "2.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Lesotho": {
+        "": "100",
+        "country_name": "Lesotho",
+        "contact_trace": "1.0",
+        "inter_travel": "1.0",
+        "movement_res": "0.0",
+        "public_trans": "1.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "2.0"
+    },
+    "Lithuania": {
+        "": "101",
+        "country_name": "Lithuania",
+        "contact_trace": "2.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Luxembourg": {
+        "": "102",
+        "country_name": "Luxembourg",
+        "contact_trace": "2.0",
+        "inter_travel": "3.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Latvia": {
+        "": "103",
+        "country_name": "Latvia",
+        "contact_trace": "1.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "5.0"
+    },
+    "Macao": {
+        "": "104",
+        "country_name": "Macao",
+        "contact_trace": "2.0",
+        "inter_travel": "3.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "4.0"
+    },
+    "Morocco": {
+        "": "105",
+        "country_name": "Morocco",
+        "contact_trace": "1.0",
+        "inter_travel": "2.0",
+        "movement_res": "1.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "3.0"
+    },
+    "Monaco": {
+        "": "106",
+        "country_name": "Monaco",
+        "contact_trace": "2.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Moldova": {
+        "": "107",
+        "country_name": "Moldova",
+        "contact_trace": "1.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "3.0"
+    },
+    "Madagascar": {
+        "": "108",
+        "country_name": "Madagascar",
+        "contact_trace": "1.0",
+        "inter_travel": "4.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "3.0"
+    },
+    "Mexico": {
+        "": "109",
+        "country_name": "Mexico",
+        "contact_trace": "1.0",
+        "inter_travel": "1.0",
+        "movement_res": "2.0",
+        "public_trans": "1.0",
+        "test_pol": "1.0",
+        "vaccine_pol": "5.0"
+    },
+    "Mali": {
+        "": "110",
+        "country_name": "Mali",
+        "contact_trace": "2.0",
+        "inter_travel": "1.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "3.0"
+    },
+    "Malta": {
+        "": "111",
+        "country_name": "Malta",
+        "contact_trace": "2.0",
+        "inter_travel": "3.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Myanmar": {
+        "": "112",
+        "country_name": "Myanmar",
+        "contact_trace": "1.0",
+        "inter_travel": "2.0",
+        "movement_res": "1.0",
+        "public_trans": "1.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "4.0"
+    },
+    "Mongolia": {
+        "": "113",
+        "country_name": "Mongolia",
+        "contact_trace": "1.0",
+        "inter_travel": "1.0",
+        "movement_res": "1.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "4.0"
+    },
+    "Mozambique": {
+        "": "114",
+        "country_name": "Mozambique",
+        "contact_trace": "1.0",
+        "inter_travel": "1.0",
+        "movement_res": "0.0",
+        "public_trans": "1.0",
+        "test_pol": "0.0",
+        "vaccine_pol": "4.0"
+    },
+    "Mauritania": {
+        "": "115",
+        "country_name": "Mauritania",
+        "contact_trace": "1.0",
+        "inter_travel": "1.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "3.0"
+    },
+    "Mauritius": {
+        "": "116",
+        "country_name": "Mauritius",
+        "contact_trace": "2.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Malawi": {
+        "": "117",
+        "country_name": "Malawi",
+        "contact_trace": "2.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Malaysia": {
+        "": "118",
+        "country_name": "Malaysia",
+        "contact_trace": "1.0",
+        "inter_travel": "3.0",
+        "movement_res": "2.0",
+        "public_trans": "2.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "4.0"
+    },
+    "Namibia": {
+        "": "119",
+        "country_name": "Namibia",
+        "contact_trace": "2.0",
+        "inter_travel": "1.0",
+        "movement_res": "0.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "3.0"
+    },
+    "Niger": {
+        "": "120",
+        "country_name": "Niger",
+        "contact_trace": "0.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "4.0"
+    },
+    "Nigeria": {
+        "": "121",
+        "country_name": "Nigeria",
+        "contact_trace": "0.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Nicaragua": {
+        "": "122",
+        "country_name": "Nicaragua",
+        "contact_trace": "0.0",
+        "inter_travel": "1.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "3.0"
+    },
+    "Netherlands": {
+        "": "123",
+        "country_name": "Netherlands",
+        "contact_trace": "2.0",
+        "inter_travel": "3.0",
+        "movement_res": "0.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Norway": {
+        "": "124",
+        "country_name": "Norway",
+        "contact_trace": "2.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Nepal": {
+        "": "125",
+        "country_name": "Nepal",
+        "contact_trace": "1.0",
+        "inter_travel": "2.0",
+        "movement_res": "1.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "4.0"
+    },
+    "New Zealand": {
+        "": "126",
+        "country_name": "New Zealand",
+        "contact_trace": "2.0",
+        "inter_travel": "4.0",
+        "movement_res": "2.0",
+        "public_trans": "2.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "5.0"
+    },
+    "Oman": {
+        "": "127",
+        "country_name": "Oman",
+        "contact_trace": "1.0",
+        "inter_travel": "2.0",
+        "movement_res": "1.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Pakistan": {
+        "": "128",
+        "country_name": "Pakistan",
+        "contact_trace": "1.0",
+        "inter_travel": "2.0",
+        "movement_res": "1.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Panama": {
+        "": "129",
+        "country_name": "Panama",
+        "contact_trace": "2.0",
+        "inter_travel": "2.0",
+        "movement_res": "2.0",
+        "public_trans": "2.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "4.0"
+    },
+    "Peru": {
+        "": "130",
+        "country_name": "Peru",
+        "contact_trace": "1.0",
+        "inter_travel": "3.0",
+        "movement_res": "2.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "4.0"
+    },
+    "Philippines": {
+        "": "131",
+        "country_name": "Philippines",
+        "contact_trace": "1.0",
+        "inter_travel": "3.0",
+        "movement_res": "1.0",
+        "public_trans": "2.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "3.0"
+    },
+    "Papua New Guinea": {
+        "": "132",
+        "country_name": "Papua New Guinea",
+        "contact_trace": "1.0",
+        "inter_travel": "2.0",
+        "movement_res": "1.0",
+        "public_trans": "1.0",
+        "test_pol": "1.0",
+        "vaccine_pol": "5.0"
+    },
+    "Poland": {
+        "": "133",
+        "country_name": "Poland",
+        "contact_trace": "1.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "5.0"
+    },
+    "Puerto Rico": {
+        "": "134",
+        "country_name": "Puerto Rico",
+        "contact_trace": "2.0",
+        "inter_travel": "1.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "4.0"
+    },
+    "Portugal": {
+        "": "135",
+        "country_name": "Portugal",
+        "contact_trace": "1.0",
+        "inter_travel": "3.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Paraguay": {
+        "": "136",
+        "country_name": "Paraguay",
+        "contact_trace": "2.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "3.0"
+    },
+    "Palestine": {
+        "": "137",
+        "country_name": "Palestine",
+        "contact_trace": "0.0",
+        "inter_travel": "4.0",
+        "movement_res": "2.0",
+        "public_trans": "2.0",
+        "test_pol": "1.0",
+        "vaccine_pol": "3.0"
+    },
+    "Qatar": {
+        "": "138",
+        "country_name": "Qatar",
+        "contact_trace": "2.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "4.0"
+    },
+    "Kosovo": {
+        "": "139",
+        "country_name": "Kosovo",
+        "contact_trace": "1.0",
+        "inter_travel": "3.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "4.0"
+    },
+    "Romania": {
+        "": "140",
+        "country_name": "Romania",
+        "contact_trace": "1.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Russia": {
+        "": "141",
+        "country_name": "Russia",
+        "contact_trace": "2.0",
+        "inter_travel": "2.0",
+        "movement_res": "2.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Rwanda": {
+        "": "142",
+        "country_name": "Rwanda",
+        "contact_trace": "2.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "1.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "2.0"
+    },
+    "Saudi Arabia": {
+        "": "143",
+        "country_name": "Saudi Arabia",
+        "contact_trace": "1.0",
+        "inter_travel": "3.0",
+        "movement_res": "0.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Sudan": {
+        "": "144",
+        "country_name": "Sudan",
+        "contact_trace": "1.0",
+        "inter_travel": "1.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "4.0"
+    },
+    "Senegal": {
+        "": "145",
+        "country_name": "Senegal",
+        "contact_trace": "1.0",
+        "inter_travel": "3.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "4.0"
+    },
+    "Singapore": {
+        "": "146",
+        "country_name": "Singapore",
+        "contact_trace": "2.0",
+        "inter_travel": "3.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Solomon Islands": {
+        "": "147",
+        "country_name": "Solomon Islands",
+        "contact_trace": "0.0",
+        "inter_travel": "3.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "1.0",
+        "vaccine_pol": "1.0"
+    },
+    "Sierra Leone": {
+        "": "148",
+        "country_name": "Sierra Leone",
+        "contact_trace": "1.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "4.0"
+    },
+    "El Salvador": {
+        "": "149",
+        "country_name": "El Salvador",
+        "contact_trace": "0.0",
+        "inter_travel": "1.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "4.0"
+    },
+    "San Marino": {
+        "": "150",
+        "country_name": "San Marino",
+        "contact_trace": "2.0",
+        "inter_travel": "1.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "5.0"
+    },
+    "Somalia": {
+        "": "151",
+        "country_name": "Somalia",
+        "contact_trace": "1.0",
+        "inter_travel": "1.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "3.0"
+    },
+    "Serbia": {
+        "": "152",
+        "country_name": "Serbia",
+        "contact_trace": "1.0",
+        "inter_travel": "1.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "South Sudan": {
+        "": "153",
+        "country_name": "South Sudan",
+        "contact_trace": "1.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "4.0"
+    },
+    "Suriname": {
+        "": "154",
+        "country_name": "Suriname",
+        "contact_trace": "1.0",
+        "inter_travel": "2.0",
+        "movement_res": "2.0",
+        "public_trans": "2.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "4.0"
+    },
+    "Slovak Republic": {
+        "": "155",
+        "country_name": "Slovak Republic",
+        "contact_trace": "1.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Slovenia": {
+        "": "156",
+        "country_name": "Slovenia",
+        "contact_trace": "2.0",
+        "inter_travel": "1.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "3.0"
+    },
+    "Sweden": {
+        "": "157",
+        "country_name": "Sweden",
+        "contact_trace": "0.0",
+        "inter_travel": "3.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "5.0"
+    },
+    "Eswatini": {
+        "": "158",
+        "country_name": "Eswatini",
+        "contact_trace": "2.0",
+        "inter_travel": "1.0",
+        "movement_res": "2.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Seychelles": {
+        "": "159",
+        "country_name": "Seychelles",
+        "contact_trace": "2.0",
+        "inter_travel": "3.0",
+        "movement_res": "2.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Syria": {
+        "": "160",
+        "country_name": "Syria",
+        "contact_trace": "0.0",
+        "inter_travel": "1.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "1.0",
+        "vaccine_pol": "4.0"
+    },
+    "Chad": {
+        "": "161",
+        "country_name": "Chad",
+        "contact_trace": "1.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "4.0"
+    },
+    "Togo": {
+        "": "162",
+        "country_name": "Togo",
+        "contact_trace": "2.0",
+        "inter_travel": "2.0",
+        "movement_res": "2.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "3.0"
+    },
+    "Thailand": {
+        "": "163",
+        "country_name": "Thailand",
+        "contact_trace": "1.0",
+        "inter_travel": "2.0",
+        "movement_res": "2.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Tajikistan": {
+        "": "164",
+        "country_name": "Tajikistan",
+        "contact_trace": "0.0",
+        "inter_travel": "4.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "1.0",
+        "vaccine_pol": "5.0"
+    },
+    "Turkmenistan": {
+        "": "165",
+        "country_name": "Turkmenistan",
+        "contact_trace": "0.0",
+        "inter_travel": "4.0",
+        "movement_res": "2.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Timor-Leste": {
+        "": "166",
+        "country_name": "Timor-Leste",
+        "contact_trace": "1.0",
+        "inter_travel": "2.0",
+        "movement_res": "2.0",
+        "public_trans": "2.0",
+        "test_pol": "1.0",
+        "vaccine_pol": "5.0"
+    },
+    "Tonga": {
+        "": "167",
+        "country_name": "Tonga",
+        "contact_trace": "1.0",
+        "inter_travel": "4.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "1.0",
+        "vaccine_pol": "1.0"
+    },
+    "Trinidad and Tobago": {
+        "": "168",
+        "country_name": "Trinidad and Tobago",
+        "contact_trace": "2.0",
+        "inter_travel": "2.0",
+        "movement_res": "2.0",
+        "public_trans": "2.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "3.0"
+    },
+    "Tunisia": {
+        "": "169",
+        "country_name": "Tunisia",
+        "contact_trace": "0.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "3.0"
+    },
+    "Turkey": {
+        "": "170",
+        "country_name": "Turkey",
+        "contact_trace": "0.0",
+        "inter_travel": "3.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "1.0",
+        "vaccine_pol": "5.0"
+    },
+    "Taiwan": {
+        "": "171",
+        "country_name": "Taiwan",
+        "contact_trace": "2.0",
+        "inter_travel": "4.0",
+        "movement_res": "1.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "4.0"
+    },
+    "Tanzania": {
+        "": "172",
+        "country_name": "Tanzania",
+        "contact_trace": "0.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "4.0"
+    },
+    "Uganda": {
+        "": "173",
+        "country_name": "Uganda",
+        "contact_trace": "0.0",
+        "inter_travel": "1.0",
+        "movement_res": "2.0",
+        "public_trans": "2.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "3.0"
+    },
+    "Ukraine": {
+        "": "174",
+        "country_name": "Ukraine",
+        "contact_trace": "1.0",
+        "inter_travel": "1.0",
+        "movement_res": "2.0",
+        "public_trans": "0.0",
+        "test_pol": "1.0",
+        "vaccine_pol": "3.0"
+    },
+    "Uruguay": {
+        "": "175",
+        "country_name": "Uruguay",
+        "contact_trace": "2.0",
+        "inter_travel": "4.0",
+        "movement_res": "1.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "United States": {
+        "": "176",
+        "country_name": "United States",
+        "contact_trace": "1.0",
+        "inter_travel": "3.0",
+        "movement_res": "2.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Uzbekistan": {
+        "": "177",
+        "country_name": "Uzbekistan",
+        "contact_trace": "0.0",
+        "inter_travel": "4.0",
+        "movement_res": "2.0",
+        "public_trans": "1.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "4.0"
+    },
+    "Venezuela": {
+        "": "178",
+        "country_name": "Venezuela",
+        "contact_trace": "0.0",
+        "inter_travel": "3.0",
+        "movement_res": "1.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "1.0"
+    },
+    "United States Virgin Islands": {
+        "": "179",
+        "country_name": "United States Virgin Islands",
+        "contact_trace": "2.0",
+        "inter_travel": "1.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Vietnam": {
+        "": "180",
+        "country_name": "Vietnam",
+        "contact_trace": "2.0",
+        "inter_travel": "3.0",
+        "movement_res": "2.0",
+        "public_trans": "2.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Vanuatu": {
+        "": "181",
+        "country_name": "Vanuatu",
+        "contact_trace": "2.0",
+        "inter_travel": "4.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "1.0",
+        "vaccine_pol": "4.0"
+    },
+    "Yemen": {
+        "": "182",
+        "country_name": "Yemen",
+        "contact_trace": "1.0",
+        "inter_travel": "3.0",
+        "movement_res": "1.0",
+        "public_trans": "0.0",
+        "test_pol": "1.0",
+        "vaccine_pol": "3.0"
+    },
+    "South Africa": {
+        "": "183",
+        "country_name": "South Africa",
+        "contact_trace": "2.0",
+        "inter_travel": "1.0",
+        "movement_res": "0.0",
+        "public_trans": "1.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "5.0"
+    },
+    "Zambia": {
+        "": "184",
+        "country_name": "Zambia",
+        "contact_trace": "0.0",
+        "inter_travel": "2.0",
+        "movement_res": "0.0",
+        "public_trans": "0.0",
+        "test_pol": "3.0",
+        "vaccine_pol": "4.0"
+    },
+    "Zimbabwe": {
+        "": "185",
+        "country_name": "Zimbabwe",
+        "contact_trace": "1.0",
+        "inter_travel": "2.0",
+        "movement_res": "2.0",
+        "public_trans": "1.0",
+        "test_pol": "2.0",
+        "vaccine_pol": "5.0"
+    }
+}

@@ -37,6 +37,10 @@ class Policy(db.Model):
 class PolicySearchForm(Form):
     country = StringField("country", validators=[DataRequired()])
     submit = SubmitField("Search")
+    
+@app.route('/api')
+def api():
+    return render_template("api.html")
 
 @app.route("/team")
 def team():

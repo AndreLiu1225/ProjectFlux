@@ -42,6 +42,10 @@ class PolicySearchForm(Form):
 def api():
     return render_template("api.html")
 
+@app.route('/contactUs')
+def contactUs():
+    return render_template("contact_us.html")
+
 @app.route("/team")
 def team():
     return render_template("our_team.html")

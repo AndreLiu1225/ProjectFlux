@@ -286,10 +286,8 @@
         </section>
         </div>
         {% endif %}
-
-      {% endfor %}
-
-        <div class="summary">
+      {% else %}
+  <div class="summary">
           <section id="hero">
           <div class="left">
             <h1 class="title">Country not found!</h1>
@@ -297,5 +295,8 @@
           </div>
           </section>
           </div>
+  {% endif %}
+
+      {% endfor %}
 
 </html>

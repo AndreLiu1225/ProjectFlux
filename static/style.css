@@ -294,7 +294,7 @@ header .btns .btn{
   align-items: center
 }
 
-.people_div {
+.people_row {
   display: flex;
   flex-direction: column;
   align-content: center

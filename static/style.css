@@ -287,6 +287,13 @@ header .btns .btn{
 }
 
 /* Content */
+
+.team_div {
+  display: flex;
+  flex-direction: column;
+  align-items: center
+}
+
 .people_div {
   display: flex;
   flex-direction: column;

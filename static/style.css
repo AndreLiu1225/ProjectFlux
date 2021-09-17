@@ -299,6 +299,7 @@ header .btns .btn{
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+	padding: 7px
 }
 
 .title_p {

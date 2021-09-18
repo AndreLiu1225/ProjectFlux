@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, request, render_template, request, redirect
+from flask import Flask, jsonify, request, render_template, request, redirect, url_for
 from flask_wtf import FlaskForm
 from wtforms import Form, StringField, SubmitField
 from wtforms.validators import DataRequired
@@ -50,7 +50,7 @@ def contactUs():
 def team():
     return render_template("our_team.html")
 
-@app.route('/')
+@app.route('/', methods=["GET", "POST"])
 def index():
     return render_template("index.html")
 
